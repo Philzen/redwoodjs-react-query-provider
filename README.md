@@ -1,6 +1,6 @@
 # RedwoodJS React Query Provider
 
-A provider that replaces `RedwoodProvder` with `react-query` + `graphql-request`
+A provider that replaces `RedwoodProvider` with `react-query` + `graphql-request`
 
 ## Usage
 
